@@ -39,7 +39,7 @@ img {
 
 .btn {
   background-color: rebeccapurple;
-  color: #fff;
+  color: white;
   border: none;
   padding: 0.5rem;
   cursor: pointer;
@@ -48,8 +48,4 @@ img {
 
 .btn:hover {
   opacity: 0.9;
-}
-
-.btn:focus {
-  outline: none;
 }
